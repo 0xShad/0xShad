@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shadrack Castro</h1>
 <h3 align="center">A Student frontend developer from PH 🇵🇭</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xshad" alt="0xshad" /></a> </p>
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 - 🔭 I’m currently working on **Ecocycle - a web/mobile fullstack app for recycled items**
 
