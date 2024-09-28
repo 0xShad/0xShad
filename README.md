@@ -30,9 +30,7 @@ const Shadrack = {
 };
 
 ```
-<h3 align="center"><em>"The first step is always the hardest"</em></h3>
 
-<h3 align="center">My Github stats</h3>
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
