@@ -32,8 +32,6 @@ const Shadrack = {
 ```
 <h3 align="center"><em>"The first step is always the hardest"</em></h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xshad&" alt="0xshad" /></p>
-
 <h3 align="center">My Github stats</h3>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
