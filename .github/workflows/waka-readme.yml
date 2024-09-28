@@ -19,3 +19,7 @@ jobs:
           SHOW_PROJECTS: "False"             # Hide project stats (removes the "This week I spent my time on ..." line)
           SHOW_TOTAL_CODE_TIME: "False"      # Hide total code time (optional)
           SHOW_PROFILE_VIEWS: "False"        # Hide profile views (optional)
+          SHOW_TIMEZONE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
