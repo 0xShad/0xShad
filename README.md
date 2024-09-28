@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [to be update](to be update)
 
-- 💬 Ask me about **jaavscript**
+- 💬 Ask me about **javascript**
 
 - 📫 How to reach me **castroshadrack@gmail.com**
 
