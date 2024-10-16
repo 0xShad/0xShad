@@ -1,32 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shadrack Castro</h1>
-<h3 align="center">A Student Fullstack Developer from PH 🇵🇭</h3>
-
 ```javascript
 const Shadrack = {
   pronouns: "he/him",
-  programmingLanguages: ["JavaScript", "PHP", "C", "Java", "Python"],
-  askMeAbout: "💬 coding, tech",
-  technologies: {
-    frontEnd: {
-      js: ["React"],
-      css: ["Sass", "Tailwind", "Bootstrap"],
-    },
-    backEnd: {
-      js: ["NodeJS"],
-      python: [],
-    },
-    dataBase: {
-      js: ["MongoDB"],
-      php: ["mySQL"],
-      cloud: "Firebase",
-    },
-    mobileApp: "Flutterflow",
-  },
-  challenge: "I am trying to be consistent with coding every day.",
-  currentProject: "🔭 A Fullstack mobile app development case study",
-  lookingForward: "🌱 To learn Three.js and Next.js",
-  projectPortfolio: "[SOON]",
-  funFact: "⚡ I debug faster when i'm alone"
+  programmingLanguages: ["JavaScript", "C", "Java", "Python"],
 };
 
 ```
